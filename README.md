@@ -17,7 +17,7 @@ You can edit it to customize the quit message.
 
 ```yaml
 # {player} is player name
-QuitMessage: "§g{player} Joined!"
+QuitMessage: "§g{player} Leaved!"
 ```
 
 ### Color Codes

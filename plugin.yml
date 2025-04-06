@@ -1,0 +1,7 @@
+name: QuitMessage
+version: 1.0.0
+api: 5.0.0
+main: Tatsomi\QuitMessage\Main
+author: Tatsomi
+website: https://github.com/Tatsomi
+prefix: QM
